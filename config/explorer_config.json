@@ -3,6 +3,7 @@
     "mdai_token": "MDAI_TOKEN",
     "mdai_project_id": "MDAI_PROJECT_ID",
     "mdai_dataset_id": [ "MDAI_DATASET_ID" ],
+
     "Project_dir": "ProjectDir",
     "annotation_vars": [
         "id",
